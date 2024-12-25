@@ -40,6 +40,27 @@ This repo is ideal for beginners and enthusiasts aiming to master linear regress
 - [scikit-learn](https://scikit-learn.org/) version: 1.5.1
 - [statsmodels](https://statsmodels.org/) version: 0.14.2
 
+## 🚀 **Getting Started**
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/coder5omkar/Simple-Linear-Regression.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Simple-Linear-Regression
+   ```
+   ```
+
+3. Open the notebook:
+   ```bash
+   jupyter notebook SLR.ipynb
+   ```
+
+---
+
+
 ## 🤝 Acknowledgements
 - This project was inspired by IIT-B AI-ML program at Upgrad
 
