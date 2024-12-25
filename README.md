@@ -9,14 +9,6 @@
 
 </p>
 
-# 📊 Simple Linear Regression 🔥
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
 ## 📋 General Information
 ``` 
 This repository provides an in-depth understanding and practical implementation of Simple Linear Regression (SLR), a foundational machine learning algorithm. SLR is used to model the relationship between two variables: a dependent variable (target) and an independent variable (predictor). It assumes a linear relationship between them and fits a straight line (y = mx + c) to the data.
