@@ -6,10 +6,9 @@
 <img src="https://img.shields.io/badge/matplotlib-3.9.2-blue?logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-1.5.1-blue?logo=scikitlearn&logoColor=white" alt="scikit-learn version 1.5.1" />
 <img src="https://img.shields.io/badge/statsmodels-0.14.2-orange?logo=statsmodels&logoColor=white" alt="statsmodels version 0.14.2" />
-
 </p>
-# 📊 Simple Linear Regression 🔥
----------------------------
+
+# Simple Linear Regression 🔥
 
 ## 📋 General Information
 ``` 
