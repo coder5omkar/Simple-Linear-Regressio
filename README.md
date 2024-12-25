@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/statsmodels-0.14.2-orange?logo=statsmodels&logoColor=white" alt="statsmodels version 0.14.2" />
 
 </p>
-# **Simple Linear Regression** 🔥
+# 📊 Simple Linear Regression 🔥
 ---------------------------
 
 ## 📋 General Information
