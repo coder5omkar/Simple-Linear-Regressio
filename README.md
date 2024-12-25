@@ -51,7 +51,6 @@ This repo is ideal for beginners and enthusiasts aiming to master linear regress
    ```bash
    cd Simple-Linear-Regression
    ```
-   ```
 
 3. Open the notebook:
    ```bash
